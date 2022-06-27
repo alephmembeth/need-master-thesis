@@ -1,1 +1,3 @@
-# need-master-thesis
+# Monotonie und Monotoniesensitivität als Desiderata für Maße der Bedarfsgerechtigkeit
+
+This is a repository for my master's thesis [“Monotonie und Monotoniesensitivität als Desiderata für Maße der Bedarfsgerechtigkeit”](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2018-01.pdf) (Bauer, Alexander Max (2018): “Monotonie und Monotoniesensitivität als Desiderata für Maße der Bedarfsgerechtigkeit. Zu zwei Aspekten der Grundlegung empirisch informierter Maße der Bedarfsgerechtigkeit zwischen normativer Theorie, formaler Modellierung und empirischer Sozialforschung”. *FOR 2104 Working Paper* 2018–01).
